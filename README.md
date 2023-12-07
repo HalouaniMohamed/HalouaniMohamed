@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HalouaniMohamed
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning React and TailwindCSS
+- 👀 I’m interested in Cloud Computing/DevOps
+- 🌱 I’m currently learning Openstack
 
 
